@@ -1,0 +1,7 @@
+C:\MyDevelopment\WEB APP With Angular\AddressBook\Infrastructure\bin\Debug\Infrastructure.dll
+C:\MyDevelopment\WEB APP With Angular\AddressBook\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\MyDevelopment\WEB APP With Angular\AddressBook\Infrastructure\bin\Debug\Autofac.dll
+C:\MyDevelopment\WEB APP With Angular\AddressBook\Infrastructure\bin\Debug\Autofac.xml
+C:\MyDevelopment\WEB APP With Angular\AddressBook\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\MyDevelopment\WEB APP With Angular\AddressBook\Infrastructure\obj\Debug\Infrastructure.dll
+C:\MyDevelopment\WEB APP With Angular\AddressBook\Infrastructure\obj\Debug\Infrastructure.pdb
